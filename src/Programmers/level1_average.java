@@ -11,10 +11,11 @@ public class level1_average {
 		int[] arr = {1,2,3,4};
 		double sum = 0.0;
 		
-        	for(int n : arr)
-            		sum += n;
+        for(int n : arr)
+            sum += n;
         
 		bw.append(sum / arr.length+"");
 		bw.close();
 	}
 }
+
