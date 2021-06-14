@@ -16,7 +16,6 @@ public class p10809 {
 		
 		for(char c = 'a'; c <= 'z'; c++)
 			bw.append(s.indexOf(c) + " ");
-		
 		bw.close();
 	}
 }
