@@ -17,3 +17,6 @@ public class p11654 {
 		bw.close();
 	}
 }
+
+// 문자열
+// char타입의 아스키 코드 -> int타입으로 형변환하면 됨
