@@ -19,3 +19,5 @@ public class level1_average {
 	}
 }
 
+// ±¸Çö
+
