@@ -14,9 +14,7 @@ public class WeeklyChallenge1 {
 
 	public static long solve(int price, int money, int count) {
 		long total = price * (count * ((long)count + 1) / 2);
-		
-		long answer = money >= total ? 0 : total - money;
 
-		return answer;
+		return money >= total ? 0 : total - money;
 	}
 }
