@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
+/*
+ * 2019 카카오 채용 - 오픈채팅방
+ * uid로 문자열 만든 뒤, result에 추가할 때 일괄로 닉네임 변경
+ * 
+ * */
 public class OpenChattingroom2 {
 	public static void main(String[] args) {
 		String[] record = {"Enter uid1234 Muzi", "Enter uid4567 Prodo","Leave uid1234"
