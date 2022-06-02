@@ -5,6 +5,7 @@ package Programmers;
  * 
  * 1부터 n까지 반복하며 dfs 호출
  * 이 때, 이미 방문한 정점은 dfs 호출 X
+ * 인접행렬 사용
  * 
  * */
 public class Network {
